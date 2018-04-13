@@ -2,7 +2,7 @@ install:
 	npm install
 
 lint:
-	npm run eslint .
+	npm run lint
 
 dev:
 	npm run dev
