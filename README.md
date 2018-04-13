@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+[![Build Status](https://travis-ci.org/oliqwe/wmy-calendar-vue.svg?branch=master)](https://travis-ci.org/oliqwe/wmy-calendar-vue)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8bc48eaed4d18201185a/maintainability)](https://codeclimate.com/github/oliqwe/wmy-calendar-vue/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/8bc48eaed4d18201185a/test_coverage)](https://codeclimate.com/github/oliqwe/wmy-calendar-vue/test_coverage)
+
 ## Build Setup
 
 ``` bash
